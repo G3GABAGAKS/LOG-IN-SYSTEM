@@ -1,4 +1,3 @@
-# LogIn-System
 import tkinter as tk
 from tkinter import font as tkFont
 import sqlite3
