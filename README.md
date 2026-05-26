@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LogIn-System
 import tkinter as tk
 from tkinter import font as tkFont
@@ -371,3 +372,6 @@ lbl_text = tk.Label(
 lbl_text.place(x=500, y=370)
 
 root.mainloop()
+=======
+# LOG-IN-SYSTEM
+>>>>>>> fd4055734d15ffbe992c532b1e3f5a3c7e55d6c0
